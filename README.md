@@ -1,6 +1,6 @@
 # projeto-nod
  
- projeto-node2bi
+ projeto-node2bp
 Iniciar um projeto node no gitHub
 Criar um repositório (private ou public) Escolher a tecnologia (.gitignore), caso disponível Escolher a opção README.md
 
